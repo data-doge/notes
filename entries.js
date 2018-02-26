@@ -1,7 +1,7 @@
 module.exports = [
   {
     "ts": "2018-02-26T13:10:27-05:00",
-    "html": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3898147018/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/\" seamless><a href=\"http://untorecords.bandcamp.com/album/pepperoni-ep\">Pepperoni EP by Kadajane</a></iframe>"
+    "html": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3121932622/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3037657714/transparent=true/\" seamless><a href=\"http://untorecords.bandcamp.com/album/turbe-in-sviluppo\">Turbe In Sviluppo by SSIEGE</a></iframe>"
   },
   {
     "ts": "2018-02-25T19:19:03-05:00",
