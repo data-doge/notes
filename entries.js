@@ -1,5 +1,9 @@
 module.exports = [
   {
+    "ts": "2018-02-26T13:10:27-05:00",
+    "html": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3898147018/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/\" seamless><a href=\"http://untorecords.bandcamp.com/album/pepperoni-ep\">Pepperoni EP by Kadajane</a></iframe>"
+  },
+  {
     "ts": "2018-02-25T19:19:03-05:00",
     "html": "<p><em>good will towards humans</em></p>\n<p><img src=\"https://s.hswstatic.com/gif/why-is-sky-blue-1.jpg\" alt=\"sky\" /></p>"
   },
