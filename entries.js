@@ -1,7 +1,7 @@
 module.exports = [
   {
     "ts": "2018-02-27T22:49:05-05:00",
-    "html": "<p>wow i love yodeling</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kprDpt84ZAA\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+    "html": "<p>wow i love yodeling</p>\n<iframe width=\"373\" height=\"210\" src=\"https://www.youtube.com/embed/kprDpt84ZAA\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
   },
   {
     "ts": "2018-02-27T16:50:03-05:00",
